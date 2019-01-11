@@ -39,7 +39,7 @@ body{
 }
 
 #cast a:hover {
-  border-bottom: 2px solid green;
+  border-bottom: 2px solid-green;
 }
 
 .page-content{
